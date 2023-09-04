@@ -3,3 +3,4 @@ master 2
 feature-A 1
 fix-b   1
 feature-C 1
+feature-D 1
